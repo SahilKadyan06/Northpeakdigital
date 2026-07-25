@@ -603,7 +603,7 @@ body {
     margin-top: 2rem;
 }
 
-.dot {
+.dot. {
     width: 10px;
     height: 10px;
     border-radius: 50%;
@@ -613,7 +613,7 @@ body {
     transition: all 0.3s ease;
 }
 
-.dot.active {
+.dot_active {
     background: var(--primary-color);
     width: 30px;
     border-radius: 5px;
